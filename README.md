@@ -46,3 +46,7 @@ For detailed API endpoint testing and documentation, refer to the Postman worksp
 5. Click on the "Params" tab. In the "Key" column, enter `location`. In the "Value" column, enter the city for which you want to retrieve the weather information.
 6. Click the send button the data will be retrieved in the form of JSON file.
 
+## Screenshots
+1.The VScode which contains the code
+
+![Screenshot (8)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/2c4621ab-e356-4d70-bbcc-45afe8550740)
