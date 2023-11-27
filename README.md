@@ -50,3 +50,8 @@ For detailed API endpoint testing and documentation, refer to the Postman worksp
 1.The VScode which contains the code
 
 ![Screenshot (8)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/2c4621ab-e356-4d70-bbcc-45afe8550740)
+
+2.Data recieved in json file formate
+
+![Screenshot (7)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/06de079a-4905-40f7-8b6c-3a6637a4d693)
+
