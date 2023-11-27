@@ -54,7 +54,7 @@ For detailed API endpoint testing and documentation, refer to the Postman worksp
 2.Data recieved in json file formate
 
 ![Screenshot (7)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/06de079a-4905-40f7-8b6c-3a6637a4d693)
-
+3.other examples
 ![Screenshot (9)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/88f6799f-802f-4a55-8179-42277fa609ab)
 
 ![Screenshot (11)](https://github.com/Tejasnyadav/Weather-backend-api/assets/150244013/8fecc74e-74ef-468b-a2ca-c29b4e99f012)
